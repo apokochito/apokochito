@@ -2,8 +2,6 @@
 
 **I'm Apokochito**, a telematics engineer and software developer.
 
-Here are some ideas to get you started:
-
 - 🔭 I'm currently working on Java Microservices at 4th Source an Agile Thought Company.
 - 🌱 I'm currently learning some full-stack technologies.
 - 📓 I'm currently studying for a Master in Computer Security.
