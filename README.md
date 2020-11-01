@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm Apokochito**, a telematics engineer and software developer.
+**I'm Apokochito**, a software developer and telematics engineer.
 
 - 🔭 I'm currently working on ...
 - 🌱 I'm currently learning some full-stack technologies.
