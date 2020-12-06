@@ -2,7 +2,7 @@
 
 **I'm Apokochito**, a software developer and telematics engineer.
 
-- 🔭 I'm currently working on ...
+- 🔭 I'm currently working on Softtek.
 - 🌱 I'm currently learning some full-stack technologies.
 - 📓 I'm currently studying for a Master in Computer Security.
 - 👯 I'm looking to collaborate on any project that is interesting and/or fun!
