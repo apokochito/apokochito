@@ -4,7 +4,13 @@
 
 ---
 
-[![Outlook](https://img.shields.io/badge/-Outlook-blue?style=plastic&logo=Microsoft%20Outlook)](mailto:diana.apolinar@hotmail.com "Connect via Email")
+[![Outlook](https://img.shields.io/badge/-Outlook-lightgrey?style=plastic&logo=Microsoft%20Outlook)](mailto:diana.apolinar@hotmail.com "Connect via Email")
+[![Website](https://img.shields.io/badge/-Website-lightgrey?style=plastic&logo=Safari)](https://www.apokochito.dev "Go to Personal Website")
+[![Linkedin](https://img.shields.io/badge/-Linkedln-lightgrey?style=plastic&logo=Linkedin)](https://www.linkedin.com/in/dianaepinto/ "Go to LinkedIn")
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apokochito&layout=compact&show_icons=true&theme=dark)
+
+![Apokochito's github stats](https://github-readme-stats.vercel.app/api?username=apokochito&count_private=true&show_icons=true&theme=dark)
 
 - 🔭 I'm currently working at Softtek.
 - 🌱 I'm currently learning some full-stack technologies.
