@@ -1,8 +1,10 @@
 ### Hi there 🖖
 
 #### I'm Apokochito, a software developer and telematics engineer :woman_technologist:
+
 ---
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.apokochito.dev%2F)](https://www.apokochito.dev/about "Contact on Telegram")
+
+[![Outlook](https://img.shields.io/badge/-Outlook-blue?style=plastic&logo=Microsoft%20Outlook)](mailto:diana.apolinar@hotmail.com "Connect via Email")
 
 - 🔭 I'm currently working at Softtek.
 - 🌱 I'm currently learning some full-stack technologies.
