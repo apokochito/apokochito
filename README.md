@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 🖖
 
-**I'm Apokochito**, a software developer and telematics engineer.
+#### I'm Apokochito, a software developer and telematics engineer :woman_technologist:
+---
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.apokochito.dev%2F)](https://www.apokochito.dev/about "Contact on Telegram")
 
 - 🔭 I'm currently working at Softtek.
 - 🌱 I'm currently learning some full-stack technologies.
