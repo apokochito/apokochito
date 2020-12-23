@@ -1,6 +1,6 @@
 ### Hi there 🖖
 
-### I'm Apokochito, a software developer and telematics engineer :woman_technologist:
+### I'm Apokochito, a software developer and telematics engineer.
 
 ---
 
