@@ -14,7 +14,7 @@
 
 ### Currently...
 
-- 👩‍💻 I'm working at Softtek.
+- 👩‍💻 I'm working at [Softtek](https://www.softtek.com/).
 - 💻 I'm learning about full-stack technologies.
 - 📓 I'm studying for a Master in Computer Security.
 
