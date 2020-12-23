@@ -12,6 +12,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apokochito&layout=compact&show_icons=true&theme=dark)
 ![Apokochito's github stats](https://github-readme-stats.vercel.app/api?username=apokochito&count_private=true&show_icons=true&theme=dark)
 
+---
+
 ### Currently...
 
 - 👩‍💻 I'm working at [Softtek](https://www.softtek.com/).
@@ -19,4 +21,4 @@
 - 📓 I'm studying for a Master in Computer Security.
 
 - 💬 Feel free to ask me about any technology, we can learn about it together.
-- ⚡ Fun fact: I love Victorian art 😍
+- ⚡ Fun fact: I love Victorian art. 😍
