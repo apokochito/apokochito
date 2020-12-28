@@ -20,5 +20,6 @@
 - 💻 I'm learning about full-stack technologies.
 - 📓 I'm studying for a Master in Computer Security.
 
-- 💬 Feel free to ask me about any technology, we can learn about it together.
-- ⚡ Fun fact: I love Victorian art. 😍
+<br>
+
+- 💬 Please feel free to ask me about any technology, we can learn about it together.
