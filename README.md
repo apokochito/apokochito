@@ -22,4 +22,4 @@
 
 <br>
 
-- 💬 Please feel free to ask me about any technology, let's share our knowledge.
+- 💬 Please feel free to ask me about any technology, let's share our knowledge :)
