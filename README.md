@@ -1,6 +1,6 @@
 ### Hi there 🖖
 
-### I'm Apokochito, a software developer and telematics engineer.
+### I'm Apokochito, a software developer and MBA in Computer Security.
 
 ---
 
@@ -16,10 +16,8 @@
 
 ### Currently...
 
-- 👩‍💻 I'm working at [Softtek](https://www.softtek.com/).
+- 👩‍💻 I'm working at [Encora](https://www.encora.com/es/).
 - 💻 I'm learning about full-stack technologies.
-- 📓 I'm studying for a Master in Computer Security.
+- 📓 I'm studying for a Ph.D. in Applied Sciences and Technology.
 
 <br>
-
-- 💬 Please feel free to ask me about any technology, let's share our knowledge :)
