@@ -5,7 +5,7 @@
 ---
 
 [![Outlook](https://img.shields.io/badge/-Outlook-lightgrey?style=plastic&logo=Microsoft%20Outlook)](mailto:diana.apolinar@hotmail.com "Connect via Email")
-[![Website](https://img.shields.io/badge/-Website-lightgrey?style=plastic&logo=Safari)](https://www.apokochito.dev "Go to Personal Website")
+[![Website](https://img.shields.io/badge/-Website-lightgrey?style=plastic&logo=Safari)](https://poly.me/pintoapolinar_di "Go to Personal Website")
 [![Linkedin](https://img.shields.io/badge/-Linkedln-lightgrey?style=plastic&logo=Linkedin)](https://www.linkedin.com/in/dianaepinto/ "Go to LinkedIn")
 ![](https://komarev.com/ghpvc/?username=apokochito&style=plastic&color=lightgrey)
 
