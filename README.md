@@ -1,6 +1,6 @@
 ### Hi there 🖖
 
-### I'm Apokochito, a software developer and MBA in Computer Security.
+### I'm Apokochito, a software developer and Master in Computer Security.
 
 ---
 
