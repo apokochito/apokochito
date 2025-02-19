@@ -16,8 +16,8 @@
 
 ### Currently...
 
-- 👩‍💻 I'm working at [Encora](https://www.encora.com/es/).
-- 💻 I'm learning about full-stack technologies.
-- 📓 I'm studying for a Ph.D. in Applied Sciences and Technology.
+- 👩‍💻 Working at [Tential](https://tential.com/).
+- 💻 Learning about full-stack technologies.
+- 📓 Currently studying a Ph.D. in Applied Sciences and Technology.
 
 <br>
