@@ -18,6 +18,6 @@
 
 - 👩‍💻 Working at [Tential](https://tential.com/).
 - 💻 Learning about full-stack technologies.
-- 📓 Currently studying a Ph.D. in Applied Sciences and Technology.
+- 📓 Currently studying a Ph.D. in Applied Sciences and Technology at Universidad Autónoma de Aguascalientes.
 
 <br>
